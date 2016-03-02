@@ -1,0 +1,9 @@
+cache:
+    request:
+        timeToLive: 90
+    memcacheServer:
+      - host: 127.0.0.1
+        port: 11211
+        persistent: true
+        weight: 40
+

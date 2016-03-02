@@ -1,0 +1,8 @@
+app:
+    name: SlimRouterService
+    version: 0.0.1
+    debug: true
+
+settings:
+    determineRouteBeforeAppMiddleware: true
+    displayErrorDetails: true

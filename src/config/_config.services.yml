@@ -1,0 +1,4 @@
+services:
+    example:
+        url: http://example.com/example
+
